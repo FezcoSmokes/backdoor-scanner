@@ -2,8 +2,6 @@
 
 # Backdoor scanner by Fezco
 
-![Project Banner](https://via.placeholder.com/728x90.png?text=Lua+Script+Scanner)
-
 A C++ console application designed to scan Lua scripts for potential backdoors, suspicious links, and obfuscated code. This tool is particularly useful for FiveM developers who want to ensure their Lua scripts are free from malicious code.
 
 ---
@@ -42,9 +40,6 @@ A C++ console application designed to scan Lua scripts for potential backdoors, 
    Ensure the `scripts` folder contains the Lua scripts you wish to scan. This folder should be in the same directory as the compiled application.
 
 2. **Run the application**:
-   ```bash
-   ./lua_script_scanner
-   ```
 
 3. **Choose an option**:
    - **Option 1**: Scans scripts for backdoors, suspicious links, and obfuscation, logging findings to the `output` folder.
@@ -86,13 +81,17 @@ Here’s what you might see after running the application with **Option 1** or *
 
 ### Console Output
 ```plaintext
-██   ██ ██  ██████  ██   ██     ██      ███████  █████  ██   ██ ███████ 
-██   ██ ██ ██       ██   ██     ██      ██      ██   ██ ██  ██  ██      
-███████ ██ ██   ███ ███████     ██      █████   ███████ █████   ███████ 
-██   ██ ██ ██    ██ ██   ██     ██      ██      ██   ██ ██  ██       ██ 
-██   ██ ██  ██████  ██   ██     ███████ ███████ ██   ██ ██   ██ ███████ 
-
-                         Made by FezcoSmokes
+    $$\   $$\ $$\           $$\       $$\                          $$\                 
+    $$ |  $$ |\__|          $$ |      $$ |                         $$ |                
+    $$ |  $$ |$$\  $$$$$$\  $$$$$$$\  $$ |      $$$$$$\   $$$$$$\  $$ |  $$\  $$$$$$$\ 
+    $$$$$$$$ |$$ |$$  __$$\ $$  __$$\ $$ |     $$  __$$\  \____$$\ $$ | $$  |$$  _____|
+    $$  __$$ |$$ |$$ /  $$ |$$ |  $$ |$$ |     $$$$$$$$ | $$$$$$$ |$$$$$$  / \$$$$$$\  
+    $$ |  $$ |$$ |$$ |  $$ |$$ |  $$ |$$ |     $$   ____|$$  __$$ |$$  _$$<   \____$$\ 
+    $$ |  $$ |$$ |\$$$$$$$ |$$ |  $$ |$$$$$$$$\\$$$$$$$\ \$$$$$$$ |$$ | \$$\ $$$$$$$  |
+    \__|  \__|\__| \____$$ |\__|  \__|\________|\_______| \_______|\__|  \__|\_______/ 
+              $$\   $$ |                                                           
+              \$$$$$$  |                                                           
+               \______/  
 
 Progress: 
 [#############################               ] 60%
