@@ -31,7 +31,7 @@ A C++ console application designed to scan Lua scripts for potential backdoors, 
 ## Installation
 
 1. **Download the compiled release**:
-  [Download latest release](https://fezco.nl)
+  [Download latest release](https://github.com/FezcoSmokes/backdoor-scanner/releases/tag/Release)
 
 
 ## Usage
