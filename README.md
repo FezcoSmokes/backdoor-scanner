@@ -1,5 +1,5 @@
 
-```markdown
+markdown
 # Lua Script Scanner
 
 ![Project Banner](https://via.placeholder.com/728x90.png?text=Lua+Script+Scanner)
