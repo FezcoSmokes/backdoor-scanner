@@ -1,6 +1,6 @@
 
-markdown
-# Lua Script Scanner
+
+# Backdoor scanner by Fezco
 
 ![Project Banner](https://via.placeholder.com/728x90.png?text=Lua+Script+Scanner)
 
@@ -35,11 +35,6 @@ A C++ console application designed to scan Lua scripts for potential backdoors, 
 1. **Download the compiled release**:
   [Download latest release](https://fezco.nl)
 
-2. **Compile the application**:
-   Make sure you have a C++ compiler installed, then compile using the following command:
-   ```bash
-   g++ -o lua_script_scanner main.cpp
-   ```
 
 ## Usage
 
